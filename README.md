@@ -4,7 +4,7 @@
 ### Software Engineer | IOS Developer | Mother | 
 - 🔭 I’m currently working on completing Coding Dojo Bootcamp
 - 🌱 I’m currently learning iOS development 
-- 😄 2020 Goals: Contribute more to open source projects
+- 😄 2021 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love arabic calligraphy
 
 
