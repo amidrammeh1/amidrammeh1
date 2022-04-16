@@ -1,7 +1,7 @@
 ### Hi there, I'm Ami  👋 
 ## <h3> &#65021; </h3>
 
-### Software Engineer | IOS Developer | Mother | 
+### Aspiring IOS Developer | Mother | 
 - 😄 2021 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love arabic calligraphy
 
